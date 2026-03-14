@@ -176,8 +176,8 @@ Feel free to use and adapt for learning or production.
 
 ---
 
-**Author**: *Jaya Chandra Kadiveti* 
+**Author**: *Vignesh Derangula* 
 
-**LinkedIn**: [username](https://www.linkedin.com/in/jayachandrakadiveti/) 
+**LinkedIn**: [username](https://www.linkedin.com/in/vigneshderangula/) 
 
-**Contact**: [datawithjay1@gmail.com](mailto:datawithjay1@gmail.com)
+**Contact**: [vigneshderangula@gmail.com](mailto:vigneshderangula@gmail.com)
